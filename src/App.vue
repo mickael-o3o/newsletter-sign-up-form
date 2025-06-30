@@ -17,6 +17,7 @@ import TheAttribution from './components/TheAttribution.vue'
 <style scoped lang="scss">
 .p-main {
   padding-inline: 2.5rem;
+  min-block-size: 100vh;
 
   @media (max-width: 450px) {
     padding-inline: 0;

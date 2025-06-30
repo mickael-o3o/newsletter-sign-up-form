@@ -10,7 +10,7 @@ const benefits = [
 
 function submitForm() {
   const emailRegex = new RegExp(/^[^\s@]+@[^\s@]+\.[^\s@]+$/)
-  const isValid = emailRegex.test(formData.value.emaiAddress)
+  const isValid = emailRegex.test(formData.value.emaiAddress.trim())
 
   showErrorMessage.value = false
   if (isValid) {
