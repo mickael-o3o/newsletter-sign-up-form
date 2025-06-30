@@ -2,7 +2,10 @@
   <p class="attribution">
     Challenge by
     <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded
-    by <a href="#" target="_blank">mickar-o3o</a>.
+    by
+    <a href="https://github.com/mickael-o3o/newsletter-sign-up-form.git" target="_blank"
+      >mickael-o3o</a
+    >.
   </p>
 </template>
 

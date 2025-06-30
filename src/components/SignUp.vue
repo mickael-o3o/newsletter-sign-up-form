@@ -37,13 +37,15 @@ function submitForm() {
         <source
           class="c-sign-up__image-illustration"
           media="(min-width: 451px)"
-          width="400"
-          height="593"
+          width="528"
+          height="360"
           srcset="/images/illustration-sign-up-tablet.svg"
         />
         <img
           class="c-sign-up__image-illustration"
           src="/images/illustration-sign-up-mobile.svg"
+          width="375"
+          height="284"
           alt=""
         />
       </picture>
