@@ -1,0 +1,5 @@
+@use './typography';
+@use 'sass:math';
+
+$mobile: math.div(375, typography.$font-size) * 1rem;
+$desktop: math.div(1440, typography.$font-size) * 1rem;
